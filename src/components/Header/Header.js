@@ -21,7 +21,7 @@ const Header = () => (
     <Div1>
       <Link href="https://github.com/Loveday-Alfred">
         <a style={{ display: "flex", alignItems: "center", color: "white" }}>
-          <DiCssdeck size="3rem" /> <span>Loveday Alfred</span>
+          <DiCssdeck size="3rem" /> <span>Loveday</span>
         </a>
       </Link>
     </Div1>
