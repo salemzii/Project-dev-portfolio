@@ -3,7 +3,7 @@ export const projects = [
     title: "Watchflix",
     description:
       "Movie Web app, Search all type of movies and series with auth",
-    image: "/images/1.png",
+    image: "/images/e-shop.PNG",
     tags: ["React", "Material-ui", "Javascript"],
     source: "/#",
     visit: "https://github.com/Loveday-Alfred/Watchflix",
