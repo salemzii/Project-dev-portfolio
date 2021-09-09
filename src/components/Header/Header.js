@@ -19,7 +19,7 @@ import {
 const Header = () => (
   <Container>
     <Div1>
-      <Link href="/">
+      <Link href="https://github.com/Loveday-Alfred">
         <a style={{ display: "flex", alignItems: "center", color: "white" }}>
           <DiCssdeck size="3rem" /> <span>Loveday Alfred</span>
         </a>
