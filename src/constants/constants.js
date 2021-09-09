@@ -10,7 +10,7 @@ export const projects = [
     id: 0,
   },
   {
-    title: "E-Shop",
+    title: "E-Store",
     description:
       "full-blown online shop with all the features of an e-commerce wep app",
     image: "/images/e-shop.PNG",
