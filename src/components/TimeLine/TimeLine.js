@@ -68,7 +68,7 @@ const Timeline = () => {
         I am a web developer from Nigeria, a student and currently living in
         Kano City. I enjoy building everything from small business sites to rich
         interactive web apps. If you are a business seeking web presence or an
-        employer looking to hire, am open to offers.
+        employer looking to hire, .
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
