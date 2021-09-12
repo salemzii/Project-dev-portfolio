@@ -1,8 +1,7 @@
 export const projects = [
   {
     title: "Watchflix",
-    description:
-      "Movie Web app, Search all type of movies and series with auth",
+    description: "Movie Web app, Search all type of movies and series.",
     image: "/images/watchflix.PNG",
     tags: ["React", "Material-ui", "Javascript"],
     source: "/#",
