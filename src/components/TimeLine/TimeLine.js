@@ -65,10 +65,12 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am a web developer from Nigeria, a student and currently living in
-        Kano City. I enjoy building everything from small business sites to rich
-        interactive web apps. If you are a business seeking web presence or an
-        employer looking to hire, am open to offers.
+      I'm a 3rd Year Computer Science student at Federal University Dutse, Jigawa State.
+
+      I am an aspiring founder with interests towards developing/improving the standard of living of Nigerians and Africans at large, as well as make money whilst at it 😂😎 I also do part-time freelancing and have been part of some software development teams, to build beautiful and reliable systems. 
+      I'm currently open to freelance jobs, so feel free to send me a mail, if you've got any project you'd like to work on.
+
+
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

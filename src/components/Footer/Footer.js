@@ -24,12 +24,12 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:090-6323-0463">090-6323-0463</LinkItem>
+          <LinkItem href="https://wa.me/07014327332" target="_blank">07014327332</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem href="mailto:alfredloveday9@gmail.com">
-            alfredloveday9@gmail.com
+            salemododa2@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
@@ -38,13 +38,13 @@ const Footer = () => {
           <Slogan>Innovating one project at a time</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/Loveday-Alfred">
+          <SocialIcons href="https://github.com/salemzii" target="_blank">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com">
+          <SocialIcons href="https://www.linkedin.com/in/salem-ododa-09519a1b3/" target="_blank">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://twitter.com">
+          <SocialIcons href="https://twitter.com/salemzii" target="_blank">
             <AiFillTwitterCircle size="3rem" />
           </SocialIcons>
         </SocialContainer>
