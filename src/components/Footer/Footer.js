@@ -28,14 +28,14 @@ const Footer = () => {
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:alfredloveday9@gmail.com">
+          <LinkItem href="mailto:salemododa2@gmail.com">
             salemododa2@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Innovating one project at a time</Slogan>
+          <Slogan>Research is what I'm doing when I don't know what I'm doing; Innovating one project at a time</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/salemzii" target="_blank">

@@ -19,8 +19,7 @@ const Technologies = () => (
     <SectionDivider divider />
     <SectionTitle>Stack</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world. From
-      Back-end To basic Design technologies
+      I work with varieties of technologies to provide the best projects documentations possible, 
     </SectionText>
     <List>
       <ListItem>
@@ -28,10 +27,13 @@ const Technologies = () => (
           <DiReact size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>Mark up</ListTitle>
           <ListParagraph>
-            Experiece with <br />
-            Html & Bootstrap
+            latex <br />
+            Twake <br />
+            Manuscripts <br />
+            Pages <br />
+            Html <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -40,10 +42,11 @@ const Technologies = () => (
           <DiFirebase size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>Documentations</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Python, Django, Flask, Fastapi & SQL
+            Readthedocs .io <br />
+            MarkdownPad (Windows) <br />
+            Document360 <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -52,10 +55,10 @@ const Technologies = () => (
           <DiZend size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Design</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            tools like Figma
+            Figma <br />
+            Blender
           </ListParagraph>
         </ListContainer>
       </ListItem>
