@@ -8,7 +8,7 @@ import {
 import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 
 const data = [
-  { number: 2, text: "6 completed final year projects from clients across the world " },
+  { number: 6, text: "over 6 completed final year projects from clients across the world " },
   { number: 12, text: "Github Followers" },
   { number: 500, text: "Github Stars" },
 ];
